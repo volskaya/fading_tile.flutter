@@ -1,6 +1,6 @@
 name: fading_tile
 description: Staggered motion animations for list / grid items.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/volskaya/fading_tile.flutter
 
 environment:
