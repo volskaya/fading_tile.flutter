@@ -6,6 +6,8 @@ Check [example_scrollable.dart](https://github.com/volskaya/fading_tile.flutter/
 
 Or run the example app in [example](https://github.com/volskaya/fading_tile.flutter/blob/main/example).
 
+<img width="250" height="541" src="https://github.com/volskaya/fading_tile.flutter/assets/38878482/313644ba-deea-42ba-9a7b-c3d2dfdf2ef6" />
+
 ###### Simple List Example
 
 ```dart
